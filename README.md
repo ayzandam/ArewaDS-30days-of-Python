@@ -15,4 +15,4 @@ Welcome to the "30 Days of Python Coding Challenge" repository. This repository 
 - How to Use:
   - If you are a Python enthusiast seeking inspiration, this repository is a valuable resource. Navigate through the folders corresponding to each day of the challenge to access the code and documentation. Feel free to adapt, learn, and contribute to the collective knowledge pool 🚀.
 
- - Embark on a journey of Python mastery with the "30 Days of Python Coding Challenge" repository. Happy coding 🏆!
+ - Embark on a journey of Python mastery with the "30 Days of Python Coding Challenge" repository. Happy coding🏆!
